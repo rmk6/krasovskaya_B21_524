@@ -1,0 +1,31 @@
+A recognised as A => right
+B recognised as D 
+C recognised as C => right
+Ç recognised as U
+D recognised as O
+E recognised as E => right
+F recognised as Y
+G recognised as E 
+Ğ recognised as Ğ => right
+H recognised as R
+I recognised as I => right
+İ recognised as İ => right
+J recognised as J => right
+K recognised as K => right
+L recognised as L => right
+M recognised as M => right
+N recognised as N => right
+O recognised as O => right
+Ö recognised as Ö => right
+P recognised as N
+R recognised as D
+S recognised as S => right
+Ş recognised as Ş => right
+T recognised as İ
+U recognised as C => right
+Ü recognised as Ü => right
+V recognised as V => right
+Y recognised as Y => right
+Z recognised as Z => right
+
+result  - 71% recognised successfully
